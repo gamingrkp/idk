@@ -1,0 +1,12 @@
+{
+    "status" : true,
+    "message" : "Genshin Impact Build",
+    "albedobuild":{
+    "albedo build": "https://i.imgur.com/eF14zsL.png",
+    "albedoresult": "Albedo Build"
+    },
+    "amberbuild":{
+        "ph1": "https://i.imgur.com/igFA3al.jpg",
+        "ph1result": "Amber Build"
+    }
+}
