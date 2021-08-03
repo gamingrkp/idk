@@ -1,4 +1,35 @@
 {
 	"name": "Amber",
-	"Build":  "https://i.imgur.com/igFA3al.jpg"
+	"Build":  "https://i.imgur.com/igFA3al.jpg",
+	"Gender": "female",
+	"from": "mondstat",
+	"Affiliation": "Knights of Favonius", 
+	"release_date": "September 28, 2020",
+	"special_dish": "Outrider's Champion Steak! Outrider's Champion Steak!",
+	"how_to_get": "Complete Winds of the Past, Paimon Bergain",
+	"Attack_use": "🏹",
+	"Talent_Materials": "Teachings of Freedom 9, Guide to Freedom 63, Philosophies of Freedom 114",
+	"Level_Materials": "Agnidus Agate Sliver 1 Agnidus Agate Fragment 9, Agnidus Agate Chunk 9, Agnidus Agate Gemstone 6, Everflame Seed 46, Small Lamp Grass 168, Firm Arrowhead 18, Sharp arrowhead 33, Weathered Arrowhead 36,",
+	"Level_cost": {
+	"lv1": "20-40 = 20.000 Mora",
+	"lv2": "40-50 = 40.000 Mora",
+	"lv3": "50-60 = 60.000 Mora",
+	"lv4": "60-70 = 80.000 Mora",
+	"lv5": "70-80 = 100.000 Mora",
+	"lvmaks": "80-90 = 120.000 Mora"
+    },
+    "Constellation": {
+        "c1": "Amber c1 Name: One Arrow to Rule Them All, effect = Fires 2 arrows per Aimed Shot. The second arrow deals 20% of the first arrow's DMG.",
+        "c2": "Amber c2 name: Bunny Triggered, effect = Baron Bunny, new and improved! Hitting Baron Bunny's foot with a fully-charged Aimed Shot manually detonates it.Explosion via manual detonation deals 200% additional DMG.",
+        "c3": "Amber c3 Name: It Burns!, effect = Increases the Level of Fiery Rain by 3.Maximum upgrade level is 15.",
+        "c4": "Amber c4 Name: It's Not Just Any Doll..., effect = Decreases Explosive Puppet's CD by 20%. Adds 1 additional charge.",
+        "c5": "Amber c5 Name: It's Baron Bunny!, effect = Increases the Level of Explosive Puppet by 3.Maximum upgrade level is 15.",
+        "c6": "amber c6 Name: Wildfire, effect = Fiery Rain increases all party members' Movement SPD by 15% and ATK by 15% for 10s."
+
+    },
+    "skill": "SharpShooter Type Normal Attack, Explosive Puppet Type Elemental Skill, Fiery Rain Type Elemental Burst, Passive1 Gliding Champion, passive2 Every Arrow Finds Its Target, Passive3 Precise Shot",
+    "profile": {
+        "introduction": "A perky, straightforward girl, who is also the only Outrider of the Knights of Favonius. Her amazing mastery of the glider has made her a three-time winner of the Gliding Championship in Mondstadt. As a rising star within the Knights of Favonius, Amber is always ready for any challenging tasks.",
+        "personality": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius."
+    }
 }
